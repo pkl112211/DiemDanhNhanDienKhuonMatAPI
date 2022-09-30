@@ -1,0 +1,7 @@
+2020-05-26T03:02:31.894Z INFO  - Starting container for site
+2020-05-26T03:02:31.894Z INFO  - docker run -d -p 4539:8080 --name diemdanhbangnhandienkhuonmat_0_a6a22668 -e WEBSITE_SITE_NAME=diemdanhbangnhandienkhuonmat -e WEBSITE_AUTH_ENABLED=False -e WEBSITE_ROLE_INSTANCE_ID=0 -e WEBSITE_HOSTNAME=diemdanhbangnhandienkhuonmat.azurewebsites.net -e WEBSITE_INSTANCE_ID=7036ca2d340ec7370b53e4193cc13d56aafe206632c5b3bfa8e99238a080b396 appsvc/dotnetcore:3.1-latest_20200101.1  
+
+2020-05-26T03:02:31.894Z INFO  - Logging is not enabled for this container.
+Please use https://aka.ms/linux-diagnostics to enable logging to see container logs here.
+2020-05-26T03:02:35.442Z INFO  - Initiating warmup request to container diemdanhbangnhandienkhuonmat_0_a6a22668 for site diemdanhbangnhandienkhuonmat
+2020-05-26T03:02:43.984Z INFO  - Container diemdanhbangnhandienkhuonmat_0_a6a22668 for site diemdanhbangnhandienkhuonmat initialized successfully and is ready to serve requests.
